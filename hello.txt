@@ -1,4 +1,8 @@
 Hello git
 This is my second line
 Adding the new feature line
+<<<<<<< HEAD
 This Line is added in MAIN branch
+=======
+This line is changed in CONFLICT-BRANCH
+>>>>>>> conflict-branch
