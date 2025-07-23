@@ -1,3 +1,4 @@
 Hello git
 This is my second line
 Adding the new feature line
+This line is changed in CONFLICT-BRANCH
